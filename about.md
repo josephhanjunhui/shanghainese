@@ -12,16 +12,16 @@ permalink: /about/
 
 以下是 The GOSDO 成员名单（排名不分先后）：                    
 
-| sugoijoe | youer | _________ |           
+| 韩俊辉 | &emsp;&emsp; | &emsp;&emsp; |           
 | :---: | :---: | :---: |           
-| ___ | ___ | ___ |           
+| &emsp;&emsp; | &emsp;&emsp; | &emsp;&emsp; |           
 
 
 以下是致谢名单（排名不分先后）：                        
 
-| 新·魔都GTO | 方正焕 | 上海言话ABC |           
+| &emsp;&emsp; | 方正焕 | &emsp;&emsp; |           
 | :---: | :---: | :---: |           
-| ___ | ___ | ___ |           
+| &emsp;&emsp; | &emsp;&emsp; | &emsp;&emsp; |           
 
 ---                 
 
