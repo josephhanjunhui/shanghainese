@@ -12,16 +12,16 @@ permalink: /about/
 
 以下是 The GOSDO 成员名单（排名不分先后）：                    
 
-| 韩俊辉 | &emsp;&emsp; | &emsp;&emsp; |           
+| 韩俊辉 | &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp; |           
 | :---: | :---: | :---: |           
-| &emsp;&emsp; | &emsp;&emsp; | &emsp;&emsp; |           
+| &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp; |           
 
 
 以下是致谢名单（排名不分先后）：                        
 
-| &emsp;&emsp; | 方正焕 | &emsp;&emsp; |           
+| &emsp;&emsp;&emsp;&emsp; | 方正焕 | &emsp;&emsp;&emsp;&emsp; |           
 | :---: | :---: | :---: |           
-| &emsp;&emsp; | &emsp;&emsp; | &emsp;&emsp; |           
+| &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp; |           
 
 ---                 
 
