@@ -9,7 +9,7 @@ permalink: /functions/
 由于上海话的拼音方案颇多，为了照顾使用不同方案的人群以及方便学术交流，本站的搜索功能尽量兼容部分其他各界主流的拼音方案。目前包括：                       
 
 + 吴语学堂上海话拼音方案（本辞典中简称“吴语学堂”）                            
-+ [上海吴语拉丁式注音法](shanghainese/the-latin-phonetic-method-of-shanghaian)（本辞典中简称“法吴”）                            
++ [上海吴语拉丁式注音法](/shanghainese/the-latin-phonetic-method-of-shanghaian)（本辞典中简称“法吴”）                            
 
 【标签】词条标题的下方会有标签，用来表示词性和其他帮助理解词语的标签。目前包括：                          
 
