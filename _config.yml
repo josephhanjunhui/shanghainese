@@ -22,10 +22,8 @@ avatar: /images/tx.jpg
 navigation:
   - name: 搜索
     url: /
-  - name: 功能
+  - name: 功能介绍
     url: /functions
-  - name: 拼音
-    url: /pinyin
   - name: 关于
     url: /about
 #  - name: Archive
